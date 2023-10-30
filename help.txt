@@ -1,0 +1,13 @@
+[x] verificar se a palavra do usuário existe na api
+
+[x] modal de fim de jogo (vitória ou derrota)
+
+[x] reiniciar o jogo quando ele terminar
+
+[] modal de explicação do jogo 
+
+[] estilizar 
+	- mudar as cores e fontes
+
+
+[] sofia gay
