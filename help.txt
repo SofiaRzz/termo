@@ -11,3 +11,9 @@
 
 
 [] sofia gay
+
+explicando o jogo 
+Seu objetivo é descobrir a palavra secreta
+Se uma letra está VERDE ela existe na palavra secreta e está no lugar correto
+Se uma letra está AMARELA ela existe na palavra secreta, mas em outro lugar
+Se uma letra está CINZA ela não existe na palavra secreta
